@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\Bai78\bin\Debug\net8.0\Bai78.exe
+C:\Users\Dang Dat\source\repos\Bai78\bin\Debug\net8.0\Bai78.deps.json
+C:\Users\Dang Dat\source\repos\Bai78\bin\Debug\net8.0\Bai78.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\Bai78\bin\Debug\net8.0\Bai78.dll
+C:\Users\Dang Dat\source\repos\Bai78\bin\Debug\net8.0\Bai78.pdb
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.dll
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\refint\Bai78.dll
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.pdb
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\Bai78.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\Bai78\obj\Debug\net8.0\ref\Bai78.dll
